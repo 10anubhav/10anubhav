@@ -1,7 +1,7 @@
 
 # Hello, I'm Anubhav Bhatnagar! 👋
 
-I'm a passionate **B.Tech** student specializing in **Computer Science and Technology (CST)** at **Graphic Era University, Dehradun**. Welcome to my GitHub profile!
+I'm a passionate **B.Tech** student specializing in **Computer Science and Technology (CST) with Specialization in AI and ML** at **Graphic Era University, Dehradun**. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -13,7 +13,7 @@ I'm a passionate **B.Tech** student specializing in **Computer Science and Techn
 ## Skills
 
 - Programming Languages: **Python**, **C**, **Java**,**C++**,**Flutter**
-- Web Technologies: **HTML5**, **CSS3**, **React.js**, 
+- Web Technologies: **HTML5**, **CSS3**, **JavaScript**, 
 - Databases: **MySQL**, **FireBase**
 - Tools & Platforms: **Git**, **GitHub**, **VS Code**, **Jupyter Notebook**
 
