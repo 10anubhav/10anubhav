@@ -31,7 +31,7 @@ You can find more of my projects and contributions in my [GitHub repositories](h
 ## Get in Touch
 
 - LinkedIn: [Anubhav Bhatnagar](https://www.linkedin.com/in/anubhav-bhatnagar/)
-- Email: [anubhav.bhatnagar@example.com](mailto:2019anubhavbhatnagar@gmail.com)
+- Email: [2019anubhavbhatnagar@gmail.com](mailto:2019anubhavbhatnagar@gmail.com)
 
 
 Feel free to reach out if you have any questions or just want to connect!
