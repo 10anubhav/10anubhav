@@ -13,7 +13,7 @@ I'm a passionate **B.Tech** student specializing in **Computer Science and Techn
 ## Skills
 
 - Programming Languages: **Python**, **C**, **Java**,**C++**,**Flutter**
-- Web Technologies: **HTML5**, **CSS3**, **JavaScript**, 
+- Web Technologies: **HTML5**, **CSS3**, **JavaScript**,**Django**
 - Databases: **MySQL**, **FireBase**
 - Tools & Platforms: **Git**, **GitHub**, **VS Code**, **Jupyter Notebook**
 
